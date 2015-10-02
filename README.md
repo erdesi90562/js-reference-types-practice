@@ -16,7 +16,7 @@ Fork, clone, branch (practice) and npm install
 There are 3 subway lines:
 
 - The Red line has the following stops: South Station, Park Street, Kendall, Central, Harvard, Porter, Davis, Alewife
-- The Green line has the following stops: Government Center, Park Street, Bolyston, Arlington, Copley, Hynes, Kenmore
+- The Green line has the following stops: Government Center, Park Street, Boylston, Arlington, Copley, Hynes, Kenmore
 - The Orange line has the following stops:  North Station, Haymarket, Park Street, State, Downtown Crossing, Chinatown, Back Bay, Forest Hills
 - All 3 subway lines intersect at *Park Street*, but there are no other intersection points. Some of this MBTA is fictionalized.
 
